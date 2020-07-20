@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "My Custom Plugin",
+  "SystemName": "Widgets.MyCustomPlugin",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Anggara",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.MyCustomPlugin.dll",
+  "Description": "This plugin allows testing plugin"
+}
